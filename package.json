@@ -1,0 +1,20 @@
+{
+  "name": "formulaire-creation-usagers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "camel-case": "^4.1.1",
+    "config": "^3.3.1"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "scripts": {
+    "demo": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
